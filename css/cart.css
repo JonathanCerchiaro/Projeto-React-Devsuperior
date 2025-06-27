@@ -40,7 +40,7 @@
     padding: 10px 0;
     font-size: 12px;
     font-weight: 700;
-    color: var(--dsc-color-font-primary);
+    color: var(--dsc-color-font-secondary);
 }
 
 .dsc-cart-item-description {
